@@ -260,27 +260,27 @@ min-btn{
 /* the button was too big so i made it smaller and made border radius a put it down */
 @media (max-width:577px) {
     .main-btn{
-        font-size: 0.8em;
+        font-size: 1.2em;
         border-radius: 10px;
     }
 }
 /* the second break point of the h3  */
 @media (max-width:501px) {
     .main h3 span{
-        font-size: 0.7em;
+        font-size: 1.5em;
     }
 }
 /* made the h2 a bit smaller */
 @media (max-width:501px) {
     .main h2 span{
-        font-size: 1em;
+        font-size: 1.9em;
     }
 }
 
 
 @media(max-width:501px) {
     .hello11{
-        font-size: 0.8em;
+        font-size: 1.4em;
     }
 }
 
